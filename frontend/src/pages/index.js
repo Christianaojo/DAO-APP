@@ -8,7 +8,7 @@ import {
   CRYPTODEVS_DAO_CONTRACT_ADDRESS,
   CRYPTODEVS_NFT_ABI,
   CRYPTODEVS_NFT_CONTRACT_ADDRESS,
-} from "./constants/index.js";
+} from "constants/index.js";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
